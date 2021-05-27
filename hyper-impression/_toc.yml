@@ -2,12 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: intro
-  numbered: true
-
-- part: FEELINGS
-  chapters:
-- file: "Impression Tools"
+- file: impression_tools
   title: The sidebar title
   sections:
     - file: markdown
-    - file: notebooks
